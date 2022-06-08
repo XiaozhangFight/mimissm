@@ -172,6 +172,7 @@
                 </configuration>
             </plugin>
         </plugins>-->
+
         <!--识别所有的配置文件-->
         <resources>
             <resource>
